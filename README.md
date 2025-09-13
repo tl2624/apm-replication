@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Overview
 
 This file describes the replication material for Leavitt, T. and L. A. Hatfield. (2025). Averaged Prediction Models (APM): Identifying Causal Effects in Controlled Pre-Post Settings with Application to Gun Policy. *The Annals of Applied Statistics*, 19(3), 1826-1846. DOI: [10.1214/25-AOAS2011](https://doi.org/10.1214/25-AOAS2011)
