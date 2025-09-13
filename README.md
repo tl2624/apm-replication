@@ -1,11 +1,7 @@
----
-title: "Replication README for Averaged Prediction Models (APM): Identifying Causal Effects in Controlled Pre-Post Settings with Application to Gun Policy"
-author: "Thomas Leavitt and Laura Hatfield"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+# Replication README
+
+Replication files for:  
+Leavitt, T. and L. A. Hatfield. (2025). *Averaged Prediction Models (APM): Identifying Causal Effects in Controlled Pre-Post Settings with Application to Gun Policy.* _The Annals of Applied Statistics_, 19(3), 1826-1846. DOI: [10.1214/25-AOAS2011](https://doi.org/10.1214/25-AOAS2011)
 
 # Overview
 
