@@ -3,9 +3,6 @@
 ## Clear R environment
 rm(list = ls())
 
-## Set working directory
-setwd("../Replication")
-
 # Use up to 120 cores or all but one, whichever is smaller
 n_cores <- if(parallel::detectCores() > 120) { 120 } else { parallel::detectCores() - 1 }
 

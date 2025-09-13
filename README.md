@@ -62,6 +62,8 @@ All simulations for this study were performed using a high-performance virtual m
 
 ## Code and Output
 
+To reproduce results, clone this repository and run `master.R` from the project root. All file paths are relative to the repository root, so there is no need to change the working directory manually.
+
 ### Files
   - `install_packages.R`
   - `master.R`
